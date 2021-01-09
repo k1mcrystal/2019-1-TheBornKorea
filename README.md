@@ -1,5 +1,6 @@
 # 2019-1-TheBornKorea
 > YBIGTA mini-conference project :: 더본코리아 브랜드별 유통전략 분석
+
 > Web Crawling + Map Visualization + Clustering Analysis
 
 #### Members: 김수정, 전유진, 정현우
